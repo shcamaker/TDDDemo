@@ -1,0 +1,6 @@
+framework module Pods_TDDLearningDemo_TDDLearningDemoUITests {
+  umbrella header "Pods-TDDLearningDemo-TDDLearningDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
